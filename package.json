@@ -8,7 +8,7 @@
         "start": "node --env-file=.env start.js",
         "startmulti": "node --env-file=.bonus.env start-bonus1.js"
     },
-    "author": "",
+    "author": "Jonathan Robles",
     "license": "ISC",
     "dependencies": {
         "@eslint/js": "^9.15.0",
