@@ -25,7 +25,7 @@ npm run start
 
 To run the bonus task solution:
 ```sh
-npm run startmulti
+npm run start-bonus
 ```
 
 To run jest tests:

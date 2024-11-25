@@ -6,7 +6,7 @@
     "scripts": {
         "test": "jest /tests",
         "start": "node --env-file=.env start.js",
-        "startmulti": "node --env-file=.bonus.env start-bonus1.js"
+        "start-bonus": "node --env-file=.bonus.env start-bonus1.js"
     },
     "author": "Jonathan Robles",
     "license": "ISC",
