@@ -20,7 +20,5 @@ const loopStrategy = (i, strategyPattern) => {
 
 module.exports = {
     loopStrategy,
-    loadEnvVariables,
     openTerminal,
-    validateEnvVariables,
 };
